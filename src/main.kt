@@ -1,7 +1,7 @@
 fun main(){
 
 
-var a=Intergers(arrayOf(1,2,4,8,4,6,) )
+var a=numbers(arrayOf(1,2,4,8,4,6,) )
     println(a)
 println(mixed (arrayOf("Nyakuar", 4.6,4.6,1.4)))
 
